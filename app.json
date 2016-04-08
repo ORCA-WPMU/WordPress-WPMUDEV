@@ -1,0 +1,25 @@
+{
+  "name": "WordPress WPMUDEV",
+  "description": "A barebones WordPress",
+  "repository": "https://github.com/BernieBots/Wordpress-WPMUDEV",
+  "logo": "https://premium.wpmudev.org/blog/wp-content/uploads/2012/05/logo-large.png",
+  "keywords": [
+    "PHP",
+    "grunt",
+    "wordpress",
+    "Composer"
+  ],
+  "addons": [
+    "cleardb:ignite",
+    "newrelic:wayne",
+    "sendgrid:starter"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
