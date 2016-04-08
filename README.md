@@ -1,4 +1,4 @@
-# Wordpress-WPMUDEV [![Build Status](https://travis-ci.org/BernieBots/Wordpress-WPMUDEV.svg?branch=master)](https://travis-ci.org/BernieBots/Wordpress-WPMUDEV)[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Wordpress-WPMUDEV [![Build Status](https://travis-ci.org/BernieBots/WordPress-WPMUDEV.svg?branch=master)](https://travis-ci.org/BernieBots/Wordpress-WPMUDEV)[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BernieBots/Wordpress-WPMUDEV/tree/master)
 
